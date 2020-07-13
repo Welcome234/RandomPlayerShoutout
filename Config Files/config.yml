@@ -1,2 +1,8 @@
 # The Prefix for the annoucements
 Prefix: '&c(RPS)'
+
+# Shoutout Message format
+ShoutoutMessage: 'Shoutout to Player, %player%!'
+
+# Time to broadcast each shoutout message in Minutes
+Interval: 5
